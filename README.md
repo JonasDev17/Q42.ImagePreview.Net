@@ -1,5 +1,7 @@
 # Q42.ImagePreview.Net
 
+This version of Q42.ImagePreview.Net has been update for .NET 5.0+
+
 Server & Client component for creating and rendering ~200 byte images (25% of original preview size).
 
 Look at [this blog post](http://q42.com/blog/post/133591843068/imagepreview-library) for more details.
