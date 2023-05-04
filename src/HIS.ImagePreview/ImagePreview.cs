@@ -1,4 +1,4 @@
-﻿namespace Q42.ImagePreview
+﻿namespace HIS.ImagePreview
 {
   internal struct ImagePreview
   {

@@ -1,18 +1,14 @@
-# Q42.ImagePreview.Net
+# HIS.ImagePreview.Net
 
-This version of Q42.ImagePreview.Net has been update for .NET 5.0+
+This version of HIS.ImagePreview.Net has been update for .NET 5.0+
 
 Server & Client component for creating and rendering ~200 byte images (25% of original preview size).
-
-Look at [this blog post](http://q42.com/blog/post/133591843068/imagepreview-library) for more details.
-
-For the iOS clients.
 
 ## Install
 
 Include the NuGet package
 
-    Install-Package Q42.ImagePreview
+    Install-Package HIS.ImagePreview
     
 ## Create the images
 

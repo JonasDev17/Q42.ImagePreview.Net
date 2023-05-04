@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q42.ImagePreview", "Q42.ImagePreview\Q42.ImagePreview.csproj", "{E0BE9CA1-4A2B-43F6-8A1D-49E88F8EBBFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIS.ImagePreview", "HIS.ImagePreview\HIS.ImagePreview.csproj", "{E0BE9CA1-4A2B-43F6-8A1D-49E88F8EBBFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

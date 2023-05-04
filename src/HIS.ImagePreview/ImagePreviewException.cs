@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Q42.ImagePreview
+namespace HIS.ImagePreview
 {
   public class ImagePreviewException : Exception
   {
